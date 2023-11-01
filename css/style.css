@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,400;1,500&display=swap');
+
+html,
+body {
+    font-family: 'open Sans', 'san serif'
+    ;
+    font-size: 15px;
+    color:  #58575B;
+    background-color: #f6f7f2;
+
+}
+h1{
+    color: #0B0B0D;
+}
+.greener-bg{
+    background-color: #ebeee3;
+    font-size: 20px;
+}
+.next-bg{
+    background-color: #ebeee3;
+}
+.nextstop-bg{ background-color: #ebeee3;
+}
+.footer-bg{
+    background-color: #ebeee3;
+
+}
+.shopping-bg{   font-family: 'open Sans', 'san serif'
+    ;
+    font-size: 12px;
+
+ 
+
+}
